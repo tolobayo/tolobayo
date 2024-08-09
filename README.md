@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tolobayo
-- 👀 I’m interested in... web development
-- 🌱 I’m currently learning... next.js
-- 💞️ I’m looking to collaborate on... open source projects
+- 👀 I’m interested in... all things Front End & Web Developement
+- 🌱 I’m currently learning... Java, Electron, and CI/CD
+- 💞️ I’m looking to collaborate on... Open Source Projects
 - 📫 How to reach me... [send me an email](mailto:tolobayo1@gmail.com)
 
 <!---
